@@ -1,0 +1,11 @@
+C:\Users\misip\OneDrive\Asztali gép\Tic-Tac-Toe\bin\Debug\Tic-Tac-Toe.exe.config
+C:\Users\misip\OneDrive\Asztali gép\Tic-Tac-Toe\bin\Debug\Tic-Tac-Toe.exe
+C:\Users\misip\OneDrive\Asztali gép\Tic-Tac-Toe\bin\Debug\Tic-Tac-Toe.pdb
+C:\Users\misip\OneDrive\Asztali gép\Tic-Tac-Toe\obj\Debug\Tic-Tac-Toe.csproj.AssemblyReference.cache
+C:\Users\misip\OneDrive\Asztali gép\Tic-Tac-Toe\obj\Debug\Tic-Tac-Toe.csproj.SuggestedBindingRedirects.cache
+C:\Users\misip\OneDrive\Asztali gép\Tic-Tac-Toe\obj\Debug\Tic_Tac_Toe.Form.resources
+C:\Users\misip\OneDrive\Asztali gép\Tic-Tac-Toe\obj\Debug\Tic_Tac_Toe.Properties.Resources.resources
+C:\Users\misip\OneDrive\Asztali gép\Tic-Tac-Toe\obj\Debug\Tic-Tac-Toe.csproj.GenerateResource.cache
+C:\Users\misip\OneDrive\Asztali gép\Tic-Tac-Toe\obj\Debug\Tic-Tac-Toe.csproj.CoreCompileInputs.cache
+C:\Users\misip\OneDrive\Asztali gép\Tic-Tac-Toe\obj\Debug\Tic-Tac-Toe.exe
+C:\Users\misip\OneDrive\Asztali gép\Tic-Tac-Toe\obj\Debug\Tic-Tac-Toe.pdb
